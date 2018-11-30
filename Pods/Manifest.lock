@@ -1,0 +1,48 @@
+PODS:
+  - CHTCollectionViewWaterfallLayout (0.9.7):
+    - CHTCollectionViewWaterfallLayout/ObjC (= 0.9.7)
+  - CHTCollectionViewWaterfallLayout/ObjC (0.9.7)
+  - JDStatusBarNotification (1.6.0)
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - TMTumblrSDK (5.0)
+  - YYCache (1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - CHTCollectionViewWaterfallLayout
+  - JDStatusBarNotification
+  - Masonry
+  - MJRefresh
+  - SDWebImage (~> 4.0)
+  - TMTumblrSDK
+  - YYCache
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CHTCollectionViewWaterfallLayout
+    - JDStatusBarNotification
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - TMTumblrSDK
+    - YYCache
+    - YYModel
+
+SPEC CHECKSUMS:
+  CHTCollectionViewWaterfallLayout: 9d11068fafecac106695bb5a5d6d0f738483b598
+  JDStatusBarNotification: 21b616e7432284fea6eb0ce9eadc37c8038a5544
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  TMTumblrSDK: 75aca84910dd905a1ca63f5f5826fbeaf28a0c1e
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: f726f0c67d5ae51e3cc402aba458fc2e2e15faa2
+
+COCOAPODS: 1.5.3
